@@ -8,4 +8,6 @@ namespace Frane_Križanović
     class Class1
     {
     }
+    class efg{
+    }
 }
