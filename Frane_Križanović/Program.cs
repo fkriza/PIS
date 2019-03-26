@@ -9,6 +9,7 @@ namespace Frane_Križanović
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
