@@ -9,8 +9,5 @@ namespace Frane_Križanović
     {
        
     }
-    class abc
-    {
-
-    }
+    
 }
